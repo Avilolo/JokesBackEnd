@@ -7,7 +7,9 @@ This repository contains the Android application for the Jokes App project. The 
 
 Features:
 -Fetches random jokes from the JokesBackEnd API.
+
 -Displays jokes in a user-friendly interface.
+
 -Provides a search functionality to find specific jokes.
 
 
